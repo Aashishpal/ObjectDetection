@@ -7,7 +7,7 @@ Required softwares -
 * install virtual environment 
 * Yolo v2 library
 * Enter following commands before executing program
-*export WORKON_HOME=$HOME/.virtualenvs
-*source /usr/local/bin/virtualenvwrapper.sh
-*workon 'virtualenvironment_name'
-*export PYTHONPATH=$PYTHONPATH:/usr/local/lib/python2.7/site-packages
+** - export WORKON_HOME=$HOME/.virtualenvs
+** - source /usr/local/bin/virtualenvwrapper.sh
+** - workon 'virtualenvironment_name'
+** - export PYTHONPATH=$PYTHONPATH:/usr/local/lib/python2.7/site-packages
